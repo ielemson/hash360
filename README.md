@@ -1,3 +1,18 @@
+# Installtion
+
+Clone the project into your local directory.
+There are two directories in the project:
+
+## Client Directory :
+
+Here is where the React JS codes are written.
+To install dependencies run:
+
+```
+npm install
+
+```
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
