@@ -25,9 +25,7 @@ Once the dependencies has been installed, cd out of the smart contract directory
 npm run dev
 ```
 
-The ReactJS was installed using vite app. readmore about it here:
-
-<a href="https://vitejs.dev/guide/">Vite App</a>
+The ReactJS was installed using vite app. readmore about it here: <a href="https://vitejs.dev/guide/">Vite App</a>
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
