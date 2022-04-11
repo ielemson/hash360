@@ -1,0 +1,6 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "react-hot-toast": "^2.2.0"
+  }
+}
